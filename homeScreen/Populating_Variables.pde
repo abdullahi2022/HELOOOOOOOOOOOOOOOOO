@@ -73,8 +73,8 @@ void populatingVariables() {
   int runAwayWidth = 300;
   int runAwayHeight = 168;
   //
-  titleFont = createFont("Harrington", 40);
-  storyfont = createFont("Harrington", 40);
-  chapterfont = createFont("Harrington", 40);
+  titleFont = createFont("Terminus", 40);
+  storyfont = createFont("Terminus", 40);
+  chapterfont = createFont("Terminus", 40);
   
 }//End populatingVariables
