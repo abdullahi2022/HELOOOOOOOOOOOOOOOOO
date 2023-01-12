@@ -1,15 +1,4 @@
 //Global Variables
-//float gridX, gridY, gridWidth, gridHeight; //Top Left
-//float gridX2, gridY2, gridWidth2, gridHeight2;// Top Middle
-//float gridX3, gridY3, gridWidth3, gridHeight3;//Top Right
-//float gridX4, gridY4, gridWidth4, gridHeight4;//Middle Left
-//float gridX5, gridY5, gridWidth5, gridHeight5;//Middle Middle
-//float gridX6, gridY6, gridWidth6, gridHeight6;//Middle Right
-//float gridX7, gridY7, gridWidth7, gridHeight7;//Bottom Left
-//float gridX8, gridY8, gridWidth8, gridHeight8;//Bottom Middle
-//float gridX9, gridY9, gridWidth9, gridHeight9;//Bottom Right
-//
-
 PImage mailpic, headlightpic, r_arrow, l_arrow, runAway;
 PFont storyfont, titleFont, chapterfont;
 
@@ -27,15 +16,6 @@ void setup() {
 //
 void draw() {
   //strokeWeight(thack);
-  //rect(gridX, gridY, gridWidth, gridHeight);
-  //rect(gridX2, gridY2, gridWidth2, gridHeight2);
-  //rect(gridX3, gridY3, gridWidth3, gridHeight3);
-  //rect(gridX4, gridY4, gridWidth4, gridHeight4);
-  //rect(gridX5, gridY5, gridWidth5, gridHeight5);
-  //rect(gridX6, gridY6, gridWidth6, gridHeight6);
-  //rect(gridX7, gridY7, gridWidth7, gridHeight7);
-  //rect(gridX8, gridY8, gridWidth8, gridHeight8);
-  //rect(gridX9, gridY9, gridWidth9, gridHeight9);
   if (scene == 0) {
     title();
   } else if (scene == 1) {

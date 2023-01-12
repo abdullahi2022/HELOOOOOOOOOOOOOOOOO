@@ -1,4 +1,4 @@
-color red = #FF0000;
+color red = #d17575;
 
 void title() {
   background(0,0,0);
