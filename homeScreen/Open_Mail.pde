@@ -1,5 +1,3 @@
-
-
 void openMail() {
   background(0,0,0);
   textSize(45);
